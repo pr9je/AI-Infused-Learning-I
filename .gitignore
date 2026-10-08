@@ -11,3 +11,6 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Gradio 
+.gradio/
